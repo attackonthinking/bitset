@@ -1,0 +1,19 @@
+# ninja log v5
+253	26966	1729515509652510322	CMakeFiles/tests.dir/test/iteration-test.cpp.o	394dde944ba649a0
+246	31792	1729515514487008330	CMakeFiles/tests.dir/test/bitset-test.cpp.o	ca5af8fcc3756395
+260	34381	1729515517064501998	CMakeFiles/tests.dir/test/operations-test.cpp.o	b9293aabeb3b2dbc
+34386	44181	1729515526876631144	CMakeFiles/tests.dir/src/bitset.cpp.o	e4c19374ccf7fc35
+26974	46465	1729515529168818834	CMakeFiles/tests.dir/test/test-helpers.cpp.o	ab66eddb2ebef3a6
+47577	53293	1729515535898494705	tests	57bd44d10be7e5b9
+31807	47576	1729515530280408302	CMakeFiles/tests.dir/test/traits-test.cpp.o	db5194d888557ac7
+548	36774	1729516739631327535	CMakeFiles/tests.dir/test/bitset-test.cpp.o	ca5af8fcc3756395
+556	40041	1729516742898423257	CMakeFiles/tests.dir/test/operations-test.cpp.o	b9293aabeb3b2dbc
+316	23145	1729519702982772611	CMakeFiles/tests.dir/test/bitset-test.cpp.o	ca5af8fcc3756395
+323	24173	1729519704012130083	CMakeFiles/tests.dir/test/operations-test.cpp.o	b9293aabeb3b2dbc
+334	19783	1729519776775831117	CMakeFiles/tests.dir/test/traits-test.cpp.o	db5194d888557ac7
+332	22594	1729519779591111145	CMakeFiles/tests.dir/test/test-helpers.cpp.o	ab66eddb2ebef3a6
+318	25667	1729519782663608309	CMakeFiles/tests.dir/test/iteration-test.cpp.o	394dde944ba649a0
+19792	28600	1729519785596382552	CMakeFiles/tests.dir/src/bitset.cpp.o	e4c19374ccf7fc35
+28603	34699	1729519791667004952	tests	57bd44d10be7e5b9
+411	16910	1729519885973099777	CMakeFiles/tests.dir/test/iteration-test.cpp.o	394dde944ba649a0
+16921	21144	1729519890201019486	tests	57bd44d10be7e5b9
